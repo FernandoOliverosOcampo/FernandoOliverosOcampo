@@ -14,8 +14,8 @@
 <a href="https://twitter.com/fer_oliveros22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fer_oliveros22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fernando Oliveros Ocampo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fernando Oliveros ocampo" height="30" width="40" /></a><a href="https://fb.com/fernando oliveros ocampo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Fernando Oliveros Ocampo" height="30" width="40" /></a>
 
-<a href="https://instagram.com/fer_oliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fer_oliveros" height="30" width="40" /></a><
-a href="https://discord.gg/fer_oliveros" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fer_oliveros" height="30" width="40" /></a>
+<a href="https://instagram.com/fer_oliveros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fer_oliveros" height="30" width="40" /></a>
+
 </p><h3 align="left">Languages and Tools:</h3><p align="left">
 
 
