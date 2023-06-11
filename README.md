@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Fernando Oliveros</h1><h3 align="center">Un desarrollador Frontend apasionado de Colombia</h3>
 
 
-- Actualmente estoy trabajando en [Alquiler_apartamentos]([https://github.com/FernandoOliverosOcampo/Alquiler_apartamentos])
+- Actualmente estoy trabajando en [Alquiler_Apartamentos](https://github.com/FernandoOliverosOcampo/Alquiler_apartamentos)
 
 - 🌱 🔭 Actualmente estoy aprendiendo **Inglés, Programación**
 
