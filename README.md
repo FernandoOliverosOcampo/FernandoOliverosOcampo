@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Fernando Oliveros</h1><h3 align="center">Un desarrollador Frontend apasionado de Colombia</h3>
 
 
-- Actualmente estoy trabajando en [Panel promociones](https://github.com/FernandoOliverosOcampo/Promociones)
+- Actualmente estoy trabajando en [Estadisticas Findii](https://github.com/soporteEqFi/Aplicativo-Findii-Call-center)
 
 - 🌱 🔭 Actualmente estoy aprendiendo **Inglés, Programación**
 
